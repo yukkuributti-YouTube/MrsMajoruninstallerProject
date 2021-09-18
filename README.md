@@ -1,0 +1,2 @@
+# MrsMajoruninstallerProject
+MrsMajorを消すソフト
